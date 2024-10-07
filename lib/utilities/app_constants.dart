@@ -1,4 +1,4 @@
 abstract class AppConstants {
   static const name = "SOYOUN OH";
-  static const category = "Cellist";
+  static const category = "cellist";
 }
